@@ -48,26 +48,26 @@
 		<key name="tizen.org/feature/network.bluetooth.hid" type="bool">true</key>
 		<key name="tizen.org/feature/network.bluetooth.le" type="bool">true</key>
 		<key name="tizen.org/feature/network.bluetooth.opp" type="bool">true</key>
-		<key name="tizen.org/feature/network.nfc" type="bool">true</key>
-		<key name="tizen.org/feature/network.nfc.card_emulation" type="bool">true</key>
+		<key name="tizen.org/feature/network.nfc" type="bool">false</key>
+		<key name="tizen.org/feature/network.nfc.card_emulation" type="bool">false</key>
 		<key name="tizen.org/feature/network.nfc.reserved_push" type="bool">false</key>
 		<key name="tizen.org/feature/network.push" type="bool">true</key>
 		<key name="tizen.org/feature/network.secure_element" type="bool">true</key>
 		<key name="tizen.org/feature/network.secure_element.ese" type="bool">false</key>
 		<key name="tizen.org/feature/network.secure_element.uicc" type="bool">true</key>
-		<key name="tizen.org/feature/network.telephony" type="bool">true</key>
-		<key name="tizen.org/feature/network.telephony.sms.cbs" type="bool">true</key>
-		<key name="tizen.org/feature/network.telephony.sms" type="bool">true</key>
-		<key name="tizen.org/feature/network.telephony.mms" type="bool">true</key>
+		<key name="tizen.org/feature/network.telephony" type="bool">false</key>
+		<key name="tizen.org/feature/network.telephony.sms.cbs" type="bool">false</key>
+		<key name="tizen.org/feature/network.telephony.sms" type="bool">false</key>
+		<key name="tizen.org/feature/network.telephony.mms" type="bool">false</key>
 		<key name="tizen.org/feature/network.telephony.service.cdma" type="bool">false</key>
-		<key name="tizen.org/feature/network.telephony.service.edge" type="bool">true</key>
-		<key name="tizen.org/feature/network.telephony.service.gprs" type="bool">true</key>
-		<key name="tizen.org/feature/network.telephony.service.gsm" type="bool">true</key>
-		<key name="tizen.org/feature/network.telephony.service.hsdpa" type="bool">true</key>
-		<key name="tizen.org/feature/network.telephony.service.hspa" type="bool">true</key>
-		<key name="tizen.org/feature/network.telephony.service.hsupa" type="bool">true</key>
+		<key name="tizen.org/feature/network.telephony.service.edge" type="bool">false</key>
+		<key name="tizen.org/feature/network.telephony.service.gprs" type="bool">false</key>
+		<key name="tizen.org/feature/network.telephony.service.gsm" type="bool">false</key>
+		<key name="tizen.org/feature/network.telephony.service.hsdpa" type="bool">false</key>
+		<key name="tizen.org/feature/network.telephony.service.hspa" type="bool">false</key>
+		<key name="tizen.org/feature/network.telephony.service.hsupa" type="bool">false</key>
 		<key name="tizen.org/feature/network.telephony.service.lte" type="bool">false</key>
-		<key name="tizen.org/feature/network.telephony.service.umts" type="bool">true</key>
+		<key name="tizen.org/feature/network.telephony.service.umts" type="bool">false</key>
 		<key name="tizen.org/feature/network.tethering" type="bool">true</key>
 		<key name="tizen.org/feature/network.tethering.bluetooth" type="bool">true</key>
 		<key name="tizen.org/feature/network.tethering.usb" type="bool">true</key>
