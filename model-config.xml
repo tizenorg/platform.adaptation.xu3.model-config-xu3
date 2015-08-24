@@ -7,7 +7,7 @@
 		<key name="tizen.org/system/platform.processor" type="string">exynos4412</key>
 		<key name="tizen.org/system/platform.communication_processor" type="string">none</key>
 		<key name="tizen.org/system/manufacturer" type="string">Tizen</key>
-		<key name="tizen.org/feature/account" type="bool">true</key>
+		<key name="tizen.org/feature/account" type="bool">false</key>
 		<key name="tizen.org/feature/archive" type="bool">true</key>
 		<key name="tizen.org/feature/badge" type="bool">false</key>
 		<key name="tizen.org/feature/battery" type="bool">false</key>
@@ -54,7 +54,7 @@
 		<key name="tizen.org/feature/network.nfc" type="bool">false</key>
 		<key name="tizen.org/feature/network.nfc.card_emulation" type="bool">false</key>
 		<key name="tizen.org/feature/network.nfc.reserved_push" type="bool">false</key>
-		<key name="tizen.org/feature/network.push" type="bool">true</key>
+		<key name="tizen.org/feature/network.push" type="bool">false</key>
 		<key name="tizen.org/feature/network.secure_element" type="bool">false</key>
 		<key name="tizen.org/feature/network.secure_element.ese" type="bool">false</key>
 		<key name="tizen.org/feature/network.secure_element.uicc" type="bool">false</key>
@@ -155,7 +155,7 @@
 		<key name="tizen.org/feature/sound" type="bool">true</key>
 		<key name="tizen.org/feature/speech.recognition" type="bool">false</key>
 		<key name="tizen.org/feature/speech.synthesis" type="bool">true</key>
-		<key name="tizen.org/feature/systemsetting" type="bool">true</key>
+		<key name="tizen.org/feature/systemsetting" type="bool">false</key>
 		<key name="tizen.org/feature/systemsetting.home_screen" type="bool">false</key>
 		<key name="tizen.org/feature/systemsetting.lock_screen" type="bool">false</key>
 		<key name="tizen.org/feature/systemsetting.incoming_call" type="bool">false</key>
